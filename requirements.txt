@@ -88,5 +88,4 @@ urllib3==1.26.9
 webencodings==0.5.1
 Werkzeug==2.1.2
 wikipedia==1.4.0
-wordcloud @ file:///C:/Users/m_sch/PycharmProjects/blog/wordcloud-1.8.1-cp39-cp39-win_amd64.whl
 zipp==3.8.0
